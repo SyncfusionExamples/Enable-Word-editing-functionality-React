@@ -1,4 +1,4 @@
-# Enable-Word-editing-functionality-React
+# Enable Word editing functionality React
 This repository contains an example of how to enable Word editing functionality in React application using Syncfusion DOCX editor. It showcases rich Word document (DOCX) editing and rendering directly within the browser, entirely free from Microsoft Word or Office interop dependencies.
 
 # How to run the application
